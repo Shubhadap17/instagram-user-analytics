@@ -1,5 +1,7 @@
 # Instagram User Analytics using SQL & Tableau
+## Dashboard Preview
 
+![Dashboard](dashboard.png)
 ## Project Overview
 
 This project analyzes user engagement and activity on Instagram using SQL and Tableau. The objective was to generate actionable insights for marketing, product, and investor stakeholders by examining user behavior, content engagement, hashtag usage, and potential bot activity.
