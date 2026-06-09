@@ -54,7 +54,7 @@ The dataset simulates an Instagram-like platform and contains information on:
 
 ## Dashboard
 
-![Instagram Dashboard](Images/dashboard.png)
+![Instagram Dashboard](dashboard.png)
 
 ---
 
