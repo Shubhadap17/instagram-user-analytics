@@ -82,14 +82,21 @@ The dataset simulates an Instagram-like platform and contains information on:
 ## Repository Structure
 
 ```text
-Instagram-User-Analytics/
+Instagram-User-Analytics
 │
-├── Dataset/
-├── SQL/
-├── Tableau/
-├── Images/
-├── Report/
-└── README.md
+├── README.md
+├── Instagram_User_Analytics_Report.pdf
+├── Instagram_User_Analytics.twbx
+├── dashboard.png
+│
+└── SQL
+    ├── A1_Loyal_Users.sql
+    ├── A2_Inactive_Users.sql
+    ├── A3_Contest_Winner.sql
+    ├── A4_Hashtag_Analysis.sql
+    ├── A5_Registration_Trends.sql
+    ├── A6_User_Engagement.sql
+    └── A7_Bot_Detection.sql
 ```
 
 ## Author
